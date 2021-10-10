@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tobias Rossi Müller</h1>
 <p align="center">
-  <img src="https://github.com/NewbieeSaibot/NewbieeSaibot/screencast-2ijk7.csb.app-2021.10.09-21_20_34.gif" alt="Hi, I'm Tobias 👋 I'm a Brazilian data scientist 🚀">
+  <img src="https://github.com/NewbieeSaibot/NewbieeSaibot/blob/main/screencast-2ijk7.csb.app-2021.10.09-21_20_34.gif" alt="Hi, I'm Tobias 👋 I'm a Brazilian data scientist 🚀">
 </p>
 
 <h3 align="center">A passionate data scientist from Brazil!</h3>
