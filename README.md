@@ -2,13 +2,13 @@
   <img src="https://github.com/NewbieeSaibot/NewbieeSaibot/blob/main/screencast-2ijk7.csb.app-2021.10.09-21_20_34.gif" alt="Hi, I'm Tobias 👋 I'm a Brazilian data scientist 🚀">
 </p>
 
-- 🔭 I’m currently working on **Radix Engenharia e Software**
+- 🔭 I’m currently working on **Radix Engenharia e Software** as a Data Scientist.
 
-- 👯 I’m looking to collaborate on **LRAutoFeatureEngineering**
+- 👯 I’m looking to collaborate on **musical information retrieval** projects.
 
 - 📫 How to reach me **tobiasrossimuller@gmail.com**
 
-- ⚡ Fun fact **I'm a trumpet player and eletronic music producer!**
+- ⚡ Fun fact **I'm a love to apply AI in musical apps!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
