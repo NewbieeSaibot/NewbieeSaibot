@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tobiasrossimuller@gmail.com**
 
-- ⚡ Fun fact **I'm a love to apply AI in musical apps!**
+- ⚡ Fun fact **I love to apply AI in musical apps!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
