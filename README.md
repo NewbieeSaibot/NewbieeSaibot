@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Radix Engenharia e Software** as a Data Scientist.
 
-- 👯 I’m looking to collaborate on **musical information retrieval** projects.
+- 👯 I’m looking to collaborate on **music information retrieval** projects.
 
 - 📫 How to reach me **tobiasrossimuller@gmail.com**
 
