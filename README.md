@@ -2,7 +2,7 @@
   <img src="https://github.com/NewbieeSaibot/NewbieeSaibot/blob/main/screencast-2ijk7.csb.app-2021.10.09-21_20_34.gif" alt="Hi, I'm Tobias 👋 I'm a Brazilian data scientist 🚀">
 </p>
 
-- 🔭 I’m currently working on **NTT DATA** as a Data Scientist.
+- 🔭 I’m currently working on **NTT DATA** as a AI Engineer mainly in computer vision.
 
 - 👯 I’m looking to collaborate on **music information retrieval** projects.
 
