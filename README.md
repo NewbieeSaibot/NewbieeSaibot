@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on **NTT DATA** as an Data Scientist mainly focused in computer vision and NLP tasks.
+- 🔭 I’m currently working on **Baires Dev** as an Data Scientist.
 
 - 👯 I’m looking to collaborate on **music information retrieval** projects.
 
