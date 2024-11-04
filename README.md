@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on **Baires Dev** as an Data Scientist.
+- 🔭 I’m currently working on **BairesDev** as an Data Scientist.
 
 - 👯 I’m looking to collaborate on **music information retrieval** projects.
 
